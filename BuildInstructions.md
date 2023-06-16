@@ -40,6 +40,12 @@ Create skill card for each technology
 
 Utilize hover to change background color
 
+***Define components/Projects.jsx
+
+Create A project grid to display array objects from pages/api/data.js
+
+Map project content to each array item 
+
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
