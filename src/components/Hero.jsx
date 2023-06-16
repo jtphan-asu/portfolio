@@ -5,15 +5,11 @@ import Image from 'next/image';
 const Hero = () => {
   return (
     <div className='hero-container'>
-        <div>
         <Image className='profile-img' src="/images/profile.jpeg" width={300} height={300} alt="Jonathan's Profile Picture"/>
         
         <div className='hero-text'>
             <h1>Hey, I'm Jonathan 👋</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                Consequuntur minus, consectetur, ut deleniti eum laudantium error, 
-                accusantium facilis perspiciatis molestias in quibusdam? Repudiandae unde 
-                quis cumque tempora odit aperiam nobis.
+            <p>I am a Software Engineering Graduate from Arizona State University who is passionate about learning how to code!
             </p>
             <div className="social_icons">
                 <a
@@ -33,7 +29,6 @@ const Hero = () => {
                     <i className="fa-brands fa-linkedin"></i>
                 </a>
             </div>
-        </div>
         </div>
         
     </div>
