@@ -17,17 +17,18 @@ const Hero = () => {
                     aria-label="GitHub"
                     target="_blank"
                     rel="noopener noreferrer"
-                >GitHub
-                    <i className="fa-brands fa-github"></i>
-                </a>
+                >
+                   GitHub <i className="fa-brands fa-github"></i>
+                </a> 
+                <br />
                 <a
                     href="https://www.linkedin.com/in/jonathan-phan-1584b464/"
                     aria-label="LinkedIn"
                     target="_blank"
                     rel="noopener noreferrer"
-                > LinkedIn
-                    <i className="fa-brands fa-linkedin"></i>
-                </a>
+                > 
+                   Linked <i className="fa-brands fa-linkedin"></i>
+                </a> 
             </div>
         </div>
         

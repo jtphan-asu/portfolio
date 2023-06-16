@@ -31,8 +31,16 @@ Create Links to GitHub and LinkedIn
 Create Introduction to portfolio
 
 
+***Define components/About.jsx
+Create About me paragraphs
+Include Image
+
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
 
 Create Links to GitHub and LinkedIn
+
+***pages/index.js
+
+Create Home index page that contains Hero and About component
