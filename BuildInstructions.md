@@ -46,6 +46,10 @@ Create A project grid to display array objects from pages/api/data.js
 
 Map project content to each array item 
 
+
+***Define components/Contact.jsx
+Create Contact Me portion with link to a mailto
+
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
