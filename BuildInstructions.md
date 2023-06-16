@@ -25,3 +25,5 @@ Create link for Resume
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
+
+Create Links to GitHub and LinkedIn
