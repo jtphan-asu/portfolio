@@ -22,6 +22,15 @@ Create link to homepage
 
 Create link for Resume
 
+***Define components/Hero.jsx
+
+Create Place for Profile Image
+
+Create Links to GitHub and LinkedIn
+
+Create Introduction to portfolio
+
+
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
