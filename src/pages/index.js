@@ -3,6 +3,7 @@ import About from '@/components/About';
 import Head from 'next/head';
 import Skills from '@/components/Skills';
 import Projects from '@/components/Projects';
+import Contact from '@/components/Contact';
 
 const Home = () => {
 	return (
@@ -18,6 +19,7 @@ const Home = () => {
 				<About />
 				<Skills />
 				<Projects />
+				<Contact />
 			</div>
 		</>
 	);
