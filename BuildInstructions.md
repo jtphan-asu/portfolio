@@ -35,6 +35,11 @@ Create Introduction to portfolio
 Create About me paragraphs
 Include Image
 
+***Define components/Skills.jsx
+Create skill card for each technology
+
+Utilize hover to change background color
+
 ***Define components/Footer.jsx
 
 Create copyright symbol and get current Date year
