@@ -1,6 +1,7 @@
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Head from 'next/head';
+import Skills from '@/components/Skills';
 
 const Home = () => {
 	return (
@@ -14,7 +15,7 @@ const Home = () => {
 			<div>
 				<Hero />
 				<About />
-			
+				<Skills />
 			</div>
 		</>
 	);
