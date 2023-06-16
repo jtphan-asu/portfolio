@@ -1,12 +1,13 @@
 import React from 'react'
-import Link from 'next/link'
+import Link from "next/link";
+import "src/styles/globals.css";
 
 export const Navbar = () => {
   return (
 
     //Create div container for navigation and link
     //to resume
-    <div className='nav-container'>
+    <div className='navbar-container'>
       <div className="logo">
         <Link href="/" >
           Jonathan's Portfolio
