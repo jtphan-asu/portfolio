@@ -18,5 +18,12 @@ Layout usually has header, navigation menu, and footer
 File is located in components/Layout.jsx
 
 ***Define components/Navbar.jsx
+Create link to homepage
+
+Create link for Resume
 
 ***Define components/Footer.jsx
+
+Create copyright symbol and get current Date year
+
+Create Links to GitHub and LinkedIn
